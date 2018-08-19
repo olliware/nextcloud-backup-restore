@@ -2,7 +2,11 @@
 
 This repository contains two bash scripts for Backup and Restore of Nextcloud (https://nextcloud.com/).
 
-It is based on a Nextcloud installation using Apache2 and MariaDB (see the tutorial [How to Install Nextcloud 12 Server on Debian 9 with HTTPS](https://techwombat.com/install-nextcloud-12-server-debian-9-https) which I adopted for my needs. The German version I have planned so far could be released sometimes on Ollis Blog (https://ollis.blog) but I haven't had the time for that... yet!
+It is based on a Nextcloud installation using Apache2 and MariaDB (see the tutorial [How to Install Nextcloud 12 Server on Debian 9 with HTTPS](https://techwombat.com/install-nextcloud-12-server-debian-9-https) which I adopted for my needs.
+
+Additionally, the idea behind it was to get Jan Rehr's original implementation of backing up the Nginx-webserver (https://decatec.de/home-server/nextcloud-backups-erstellen-und-wiederherstellen-manuell-oder-per-skript) running under Apache and my Debian-system.
+
+The German version I have planned so far could be released sometimes on Ollis Blog (https://ollis.blog) but I haven't had the time for that... yet!
 
 So far, feel free to search all other Nextcloud-related articles on my blog at https://ollis.blog/?s=nextcloud!
 
