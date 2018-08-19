@@ -31,7 +31,7 @@ The scripts take care of these three items to do an automatically backup to a sp
 
 ## Backup
 
-In order to create a backup, simply call the script "NextcloudBackup.sh" on your Nextcloud-server. This will create a directory with the current time stamp in your main backup directory (assuming you already edited the script so that it fits your Nextcloud-installation, haven't you?). For example, this would be "/mnt/Share/NextcloudBackups/20180819_153907". And yes - just to mention it again - the share should reside elsewhere OUTSIDE of your productive environment!
+In order to create a backup, simply call the script "NextcloudBackup.sh" on your Nextcloud-server. This will create a directory with the current time stamp in your main backup directory (assuming you already edited the script so that it fits your Nextcloud-installation, haven't you?). For example, this would be "/mnt/backup/nextcloud/20180819_153907". And yes - just to mention it again - the share should reside elsewhere OUTSIDE of your productive environment!
 
 ## Restore
 
