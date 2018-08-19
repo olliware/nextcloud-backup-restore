@@ -15,7 +15,7 @@
 # Variables
 currentDate=$(date +"%Y%m%d_%H%M%S")
 # CHANGEME: The external (!) directory where you want to store your Nextcloud-backups
-backupMainDir="/mnt/backup/Nextcloud/"
+backupMainDir="/mnt/backup/Nextcloud"
 # The actual directory of the current backup - this is a subdirectory of the main directory above with a decent timestamp
 backupdir="${backupMainDir}/${currentDate}/"
 # CHANGEME: The base-directory of your Nextcloud-installation (should be a "/nextcloud"-directory just under your webroot)
