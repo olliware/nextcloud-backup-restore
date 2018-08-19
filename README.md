@@ -8,7 +8,7 @@ Additionally, the idea behind it was to get Jan Rehr's original implementation o
 
 The German version I have planned so far could be released sometimes on Ollis Blog (https://ollis.blog) but I haven't had the time for that... yet!
 
-So far, feel free to search all other Nextcloud-related articles on my blog at https://ollis.blog/?s=nextcloud!
+In the meantime, feel free to search all other Nextcloud-related articles on my blog at https://ollis.blog/?s=nextcloud! And - by all means - be merciful as this is my first repository and project I am sharing here!
 
 ## General information
 
